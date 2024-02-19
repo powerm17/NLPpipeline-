@@ -9,7 +9,7 @@ public class split {
         String file = "C:\\Users\\wagne\\OneDrive\\Documents\\GitHub\\NLPpipeline-\\test.text";
         try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
             String str = reader.readLine();
-            String[] arrOfStr = str.split("\\.");
+            String[] arrOfStr = str.split("[, ?.@]+");
 
             for (String a : arrOfStr)
                 System.out.println(a.trim());
