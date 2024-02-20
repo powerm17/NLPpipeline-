@@ -6,41 +6,33 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Lemmatizer {
-    private final Map<String, String> lemmatizationDict;
+    private static Map<String, String> lookupTable = new HashMap<>();
+    public static void main(String[] args) {
 
-    public Lemmatizer(String csvFilePath) {
-        lemmatizationDict = new HashMap<>();
-        loadLemmatizationData(csvFilePath);
+        String file = "C:\\Users\\wagne\\OneDrive\\Documents\\GitHub\\NLPpipeline-\\lemmatization-en.txt";
+        loadLookupTable(file);
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter a word: ");
+        String input = scanner.nextLine().trim();
+
+        String lemma = lookupTable.getOrDefault(input, "Not found");
+        System.out.println("Lemma for '" + input + "': " + lemma);
     }
 
-    private void loadLemmatizationData(String csvFilePath) {
-        try (BufferedReader reader = new BufferedReader(new FileReader(csvFilePath))) {
+    private static void loadLookupTable(String filePath) {
+        try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
             String line;
             while ((line = reader.readLine()) != null) {
-                String[] parts = line.split(",");
-                if (parts.length == 2) {
-                    String word = parts[0].trim();
-                    String lemma = parts[1].trim();
-                    lemmatizationDict.put(word, lemma);
+                String[] tokens = line.split("  ");
+                if (tokens.length == 2) {
+                    String inflection = tokens[0].trim();
+                    String lemma = tokens[1].trim();
+                    lookupTable.put(inflection, lemma);
                 }
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
-
-    public String lemmatize(String word) {
-        return lemmatizationDict.getOrDefault(word, word);
-    }
-
-    public static void main(String[] args) {
-        String csvFilePath = "C:\\Users\\wagne\\OneDrive\\Documents\\GitHub\\NLPpipeline-\\pos_labels.csv"; 
-        Lemmatizer lemmatizer = new Lemmatizer(csvFilePath);
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter a word: ");
-        String input = scanner.nextLine();
-        String lemma = lemmatizer.lemmatize(input);
-        System.out.println("Lemmatized form of '" + input + "': " + lemma);
-    }
 }
-
