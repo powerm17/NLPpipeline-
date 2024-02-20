@@ -11,7 +11,7 @@ public class split {
 
          try (BufferedReader reader = new BufferedReader(new FileReader(file));
              Scanner scanner = new Scanner(System.in);
-             FileWriter writer = new FileWriter("pos_labels.csv")) {
+             FileWriter writer = new FileWriter("pos_labels1.csv")) {
 
             String line;
             while ((line = reader.readLine()) != null) {
@@ -25,7 +25,7 @@ public class split {
             }
         }
 
-            System.out.println("POS labels saved to pos_labels.csv");
+            System.out.println("POS labels saved to pos_labels1.csv");
         } catch (IOException e) {
             e.printStackTrace();
         }
