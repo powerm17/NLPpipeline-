@@ -8,10 +8,11 @@ public class NlpPipeline {
 
     public static void main(String[] args) {
         String file = "C:\\Users\\wagne\\OneDrive\\Documents\\GitHub\\NLPpipeline-\\test.text";
+        String filePath = "C:\\Users\\wagne\\OneDrive\\Documents\\GitHub\\NLPpipeline-\\lemmatization-en.txt";
         String[] word = segmentword(file);
         List<String[]> tokensPerSentence = tokenizeword(word);
         Map<String, String> posTags = manualPosTag("pos_labels.csv");
-        Map<String, String> lemmas = Lemmatization("lemmatization-en.txt");
+        Map<String, String> lemmas = Lemmatization(filePath);
         Set<String> stopWords = buildStopWordsSet();
 
         printFinalResult(word, tokensPerSentence, posTags, lemmas, stopWords);
