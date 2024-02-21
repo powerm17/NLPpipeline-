@@ -1,0 +1,692 @@
+Word 1: "The"
+  Token: The (The)
+
+Word 2: "Teloschistaceae"
+  Token: Teloschistaceae (Teloschistaceae)
+
+Word 3: "are"
+  Token: are (are)
+
+Word 4: "a"
+  Token: a (a)
+
+Word 5: "large"
+  Token: large (large)
+
+Word 6: "family"
+  Token: family (family)
+
+Word 7: "of"
+  Token: of (of)
+
+Word 8: "mostly"
+  Token: mostly (mostly)
+
+Word 9: "lichen-forming"
+  Token: lichen-forming (lichen-forming)
+
+Word 10: "fungi"
+  Token: fungi (fungi)
+
+Word 11: "belonging"
+  Token: belonging (belonging)
+
+Word 12: "to"
+  Token: to (to)
+
+Word 13: "the"
+  Removed Token: the
+
+Word 14: "class"
+  Token: class (class)
+
+Word 15: "Lecanoromycetes"
+  Token: Lecanoromycetes (Lecanoromycetes)
+
+Word 16: "in"
+  Token: in (in)
+
+Word 17: "the"
+  Removed Token: the
+
+Word 18: "division"
+  Token: division (division)
+
+Word 19: "Ascomycota"
+  Token: Ascomycota (Ascomycota)
+
+Word 20: "The"
+  Token: The (The)
+
+Word 21: "family"
+  Token: family (family)
+
+Word 22: "has"
+  Token: has (has)
+
+Word 23: "a"
+  Token: a (a)
+
+Word 24: "cosmopolitan"
+  Token: cosmopolitan (cosmopolitan)
+
+Word 25: "distribution"
+  Token: distribution (distribution)
+
+Word 26: "although"
+  Token: although (although)
+
+Word 27: "members"
+  Token: members (members)
+
+Word 28: "occur"
+  Token: occur (occur)
+
+Word 29: "predominantly"
+  Token: predominantly (predominantly)
+
+Word 30: "in"
+  Token: in (in)
+
+Word 31: "temperate"
+  Token: temperate (temperate)
+
+Word 32: "regions"
+  Token: regions (regions)
+
+Word 33: "Most"
+  Token: Most (Most)
+
+Word 34: "members"
+  Token: members (members)
+
+Word 35: "are"
+  Token: are (are)
+
+Word 36: "lichens"
+  Token: lichens (lichens)
+
+Word 37: "that"
+  Token: that (that)
+
+Word 38: "either"
+  Token: either (either)
+
+Word 39: "live"
+  Token: live (live)
+
+Word 40: "on"
+  Token: on (on)
+
+Word 41: "rock"
+  Token: rock (rock)
+
+Word 42: "or"
+  Token: or (or)
+
+Word 43: "on"
+  Token: on (on)
+
+Word 44: "bark"
+  Token: bark (bark)
+
+Word 45: "but"
+  Token: but (but)
+
+Word 46: "about"
+  Token: about (about)
+
+Word 47: "40"
+  Token: 40 (40)
+
+Word 48: "species"
+  Token: species (species)
+
+Word 49: "are"
+  Token: are (are)
+
+Word 50: "lichenicolous"
+  Token: lichenicolous (lichenicolous)
+
+Word 51: "meaning"
+  Token: meaning (meaning)
+
+Word 52: "they"
+  Token: they (they)
+
+Word 53: "are"
+  Token: are (are)
+
+Word 54: "non-lichenised"
+  Token: non-lichenised (non-lichenised)
+
+Word 55: "fungi"
+  Token: fungi (fungi)
+
+Word 56: "that"
+  Token: that (that)
+
+Word 57: "live"
+  Token: live (live)
+
+Word 58: "on"
+  Token: on (on)
+
+Word 59: "other"
+  Token: other (other)
+
+Word 60: "lichens"
+  Token: lichens (lichens)
+
+Word 61: "Many"
+  Token: Many (Many)
+
+Word 62: "members"
+  Token: members (members)
+
+Word 63: "of"
+  Token: of (of)
+
+Word 64: "the"
+  Removed Token: the
+
+Word 65: "Teloschistaceae"
+  Token: Teloschistaceae (Teloschistaceae)
+
+Word 66: "are"
+  Token: are (are)
+
+Word 67: "readily"
+  Token: readily (readily)
+
+Word 68: "identifiable"
+  Token: identifiable (identifiable)
+
+Word 69: "by"
+  Token: by (by)
+
+Word 70: "their"
+  Token: their (their)
+
+Word 71: "vibrant"
+  Token: vibrant (vibrant)
+
+Word 72: "orange"
+  Token: orange (orange)
+
+Word 73: "to"
+  Token: to (to)
+
+Word 74: "yellow"
+  Token: yellow (yellow)
+
+Word 75: "hue"
+  Token: hue (hue)
+
+Word 76: "a"
+  Token: a (a)
+
+Word 77: "result"
+  Token: result (result)
+
+Word 78: "of"
+  Token: of (of)
+
+Word 79: "their"
+  Token: their (their)
+
+Word 80: "frequent"
+  Token: frequent (frequent)
+
+Word 81: "anthraquinone"
+  Token: anthraquinone (anthraquinone)
+
+Word 82: "content"
+  Token: content (content)
+
+Word 83: "The"
+  Token: The (The)
+
+Word 84: "presence"
+  Token: presence (presence)
+
+Word 85: "of"
+  Token: of (of)
+
+Word 86: "these"
+  Token: these (these)
+
+Word 87: "anthraquinone"
+  Token: anthraquinone (anthraquinone)
+
+Word 88: "pigments"
+  Token: pigments (pigments)
+
+Word 89: "which"
+  Token: which (which)
+
+Word 90: "confer"
+  Token: confer (confer)
+
+Word 91: "protection"
+  Token: protection (protection)
+
+Word 92: "from"
+  Token: from (from)
+
+Word 93: "ultraviolet"
+  Token: ultraviolet (ultraviolet)
+
+Word 94: "light"
+  Token: light (light)
+
+Word 95: "enabled"
+  Token: enabled (enabled)
+
+Word 96: "this"
+  Token: this (this)
+
+Word 97: "group"
+  Token: group (group)
+
+Word 98: "to"
+  Token: to (to)
+
+Word 99: "expand"
+  Token: expand (expand)
+
+Word 100: "from"
+  Token: from (from)
+
+Word 101: "shaded"
+  Token: shaded (shaded)
+
+Word 102: "forest"
+  Token: forest (forest)
+
+Word 103: "habitats"
+  Token: habitats (habitats)
+
+Word 104: "to"
+  Token: to (to)
+
+Word 105: "harsher"
+  Token: harsher (harsher)
+
+Word 106: "environmental"
+  Token: environmental (environmental)
+
+Word 107: "conditions"
+  Token: conditions (conditions)
+
+Word 108: "of"
+  Token: of (of)
+
+Word 109: "sunny"
+  Token: sunny (sunny)
+
+Word 110: "and"
+  Removed Token: and
+
+Word 111: "arid"
+  Token: arid (arid)
+
+Word 112: "ecosystems"
+  Token: ecosystems (ecosystems)
+
+Word 113: "during"
+  Token: during (during)
+
+Word 114: "the"
+  Removed Token: the
+
+Word 115: "Late"
+  Token: Late (Late)
+
+Word 116: "Cretaceous"
+  Token: Cretaceous (Cretaceous)
+
+Word 117: "Teloschistaceae"
+  Token: Teloschistaceae (Teloschistaceae)
+
+Word 118: "lichens"
+  Token: lichens (lichens)
+
+Word 119: "typically"
+  Token: typically (typically)
+
+Word 120: "have"
+  Token: have (have)
+
+Word 121: "one"
+  Token: one (one)
+
+Word 122: "of"
+  Token: of (of)
+
+Word 123: "a"
+  Token: a (a)
+
+Word 124: "few"
+  Token: few (few)
+
+Word 125: "physical"
+  Token: physical (physical)
+
+Word 126: "growth"
+  Token: growth (growth)
+
+Word 127: "forms"
+  Token: forms (forms)
+
+Word 128: "Depending"
+  Token: Depending (Depending)
+
+Word 129: "on"
+  Token: on (on)
+
+Word 130: "the"
+  Removed Token: the
+
+Word 131: "species"
+  Token: species (species)
+
+Word 132: "the"
+  Removed Token: the
+
+Word 133: "thallus"
+  Token: thallus (thallus)
+
+Word 134: "(the"
+  Token: (the ((the)
+
+Word 135: "main"
+  Token: main (main)
+
+Word 136: "body"
+  Token: body (body)
+
+Word 137: "of"
+  Token: of (of)
+
+Word 138: "the"
+  Removed Token: the
+
+Word 139: "lichen)"
+  Token: lichen) (lichen))
+
+Word 140: "is"
+  Removed Token: is
+
+Word 141: "either"
+  Token: either (either)
+
+Word 142: "leaf-like"
+  Token: leaf-like (leaf-like)
+
+Word 143: "(foliose)"
+  Token: (foliose) ((foliose))
+
+Word 144: "bushy"
+  Token: bushy (bushy)
+
+Word 145: "or"
+  Token: or (or)
+
+Word 146: "shrub-like"
+  Token: shrub-like (shrub-like)
+
+Word 147: "(fruticose)"
+  Token: (fruticose) ((fruticose))
+
+Word 148: "or"
+  Token: or (or)
+
+Word 149: "crust-like"
+  Token: crust-like (crust-like)
+
+Word 150: "(crustose)"
+  Token: (crustose) ((crustose))
+
+Word 151: "These"
+  Token: These (These)
+
+Word 152: "lichens"
+  Token: lichens (lichens)
+
+Word 153: "typically"
+  Token: typically (typically)
+
+Word 154: "partner"
+  Token: partner (partner)
+
+Word 155: "with"
+  Token: with (with)
+
+Word 156: "a"
+  Token: a (a)
+
+Word 157: "photosynthetic"
+  Token: photosynthetic (photosynthetic)
+
+Word 158: "companion"
+  Token: companion (companion)
+
+Word 159: "(a"
+  Token: (a ((a)
+
+Word 160: "photobiont)"
+  Token: photobiont) (photobiont))
+
+Word 161: "from"
+  Token: from (from)
+
+Word 162: "the"
+  Removed Token: the
+
+Word 163: "green"
+  Token: green (green)
+
+Word 164: "algal"
+  Token: algal (algal)
+
+Word 165: "genus"
+  Token: genus (genus)
+
+Word 166: "Trebouxia"
+  Token: Trebouxia (Trebouxia)
+
+Word 167: "Teloschistaceae"
+  Token: Teloschistaceae (Teloschistaceae)
+
+Word 168: "members"
+  Token: members (members)
+
+Word 169: "are"
+  Token: are (are)
+
+Word 170: "also"
+  Token: also (also)
+
+Word 171: "characterised"
+  Token: characterised (characterised)
+
+Word 172: "by"
+  Token: by (by)
+
+Word 173: "their"
+  Token: their (their)
+
+Word 174: "apothecia"
+  Token: apothecia (apothecia)
+
+Word 175: "(the"
+  Token: (the ((the)
+
+Word 176: "fruiting"
+  Token: fruiting (fruiting)
+
+Word 177: "bodies"
+  Token: bodies (bodies)
+
+Word 178: "where"
+  Token: where (where)
+
+Word 179: "sexual"
+  Token: sexual (sexual)
+
+Word 180: "reproduction"
+  Token: reproduction (reproduction)
+
+Word 181: "occurs)"
+  Token: occurs) (occurs))
+
+Word 182: "which"
+  Token: which (which)
+
+Word 183: "generally"
+  Token: generally (generally)
+
+Word 184: "have"
+  Token: have (have)
+
+Word 185: "a"
+  Token: a (a)
+
+Word 186: "well-defined"
+  Token: well-defined (well-defined)
+
+Word 187: "encircling"
+  Token: encircling (encircling)
+
+Word 188: "rim"
+  Token: rim (rim)
+
+Word 189: "of"
+  Token: of (of)
+
+Word 190: "tissue"
+  Token: tissue (tissue)
+
+Word 191: "In"
+  Token: In (In)
+
+Word 192: "the"
+  Removed Token: the
+
+Word 193: "Teloschistaceae"
+  Token: Teloschistaceae (Teloschistaceae)
+
+Word 194: "the"
+  Removed Token: the
+
+Word 195: "tip"
+  Token: tip (tip)
+
+Word 196: "of"
+  Token: of (of)
+
+Word 197: "the"
+  Removed Token: the
+
+Word 198: "ascus"
+  Token: ascus (ascus)
+
+Word 199: "the"
+  Removed Token: the
+
+Word 200: "structure"
+  Token: structure (structure)
+
+Word 201: "that"
+  Token: that (that)
+
+Word 202: "produces"
+  Token: produces (produces)
+
+Word 203: "spores"
+  Token: spores (spores)
+
+Word 204: "characteristically"
+  Token: characteristically (characteristically)
+
+Word 205: "turns"
+  Token: turns (turns)
+
+Word 206: "blue"
+  Token: blue (blue)
+
+Word 207: "when"
+  Token: when (when)
+
+Word 208: "stained"
+  Token: stained (stained)
+
+Word 209: "with"
+  Token: with (with)
+
+Word 210: "iodine"
+  Token: iodine (iodine)
+
+Word 211: "The"
+  Token: The (The)
+
+Word 212: "ascospores"
+  Token: ascospores (ascospores)
+
+Word 213: "are"
+  Token: are (are)
+
+Word 214: "released"
+  Token: released (released)
+
+Word 215: "through"
+  Token: through (through)
+
+Word 216: "a"
+  Token: a (a)
+
+Word 217: "longitudinal"
+  Token: longitudinal (longitudinal)
+
+Word 218: "slit"
+  Token: slit (slit)
+
+Word 219: "in"
+  Token: in (in)
+
+Word 220: "the"
+  Removed Token: the
+
+Word 221: "ascus"
+  Token: ascus (ascus)
+
+Word 222: "tip"
+  Token: tip (tip)
+
+Word 223: "a"
+  Token: a (a)
+
+Word 224: "unique"
+  Token: unique (unique)
+
+Word 225: "trait"
+  Token: trait (trait)
+
+Word 226: "common"
+  Token: common (common)
+
+Word 227: "to"
+  Token: to (to)
+
+Word 228: "this"
+  Token: this (this)
+
+Word 229: "family"
+  Token: family (family)
+
+Word 230: "of"
+  Token: of (of)
+
+Word 231: "lichens"
+  Token: lichens (lichens)
